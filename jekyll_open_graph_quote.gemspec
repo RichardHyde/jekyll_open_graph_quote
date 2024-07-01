@@ -4,7 +4,7 @@ require_relative "lib/jekyll_open_graph_quote/version"
 
 Gem::Specification.new do |spec|
   spec.name = "jekyll_open_graph_quote"
-  spec.version = JekyllOpenGraphQuote::1.0
+  spec.version = JekyllOpenGraphQuote::VERSION
   spec.authors = ["Richard Hyde"]
   spec.email = ["email@richardhyde.net"]
 
